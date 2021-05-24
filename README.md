@@ -40,3 +40,8 @@ To generate test image(s) for the final models, use `createImageFromH5.py`:
 ```
 python createImageFromH5.py  --h5file ./results/reconstructions/file1000000.h5
 ```
+
+## License
+
+Self-MRI is released under [MIT license](LICENSE).  
+
